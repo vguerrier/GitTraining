@@ -1,3 +1,2 @@
 branch6 rebase
 modif master
-branch6 bonjour
